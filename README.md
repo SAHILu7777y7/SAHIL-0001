@@ -94,15 +94,15 @@ src="https://www.facebook.com/tr?id=1772028374027262&ev=PageView&noscript=1"
 </div>
 <div class="wrap">
   <header>
-    <div class="brand">𝗦𝗔𝗛𝗜𝗟 𝗩𝗜𝗣 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 🗿�</div>
-    <a class="badge" href="https://https://t.me/+dbTXlac6wxFkYTQ9/+_hYqpJTtPD01NTY1" target="_blank" rel="noopener noreferrer">Ads Managed By VINIT</a>
+    <div class="brand">𝗦𝗔𝗛𝗜𝗟 𝗩𝗜𝗣 𝗖𝗛𝗔𝗡𝗡𝗘𝗟� 🗿�</div>
+    <a class="badge" href="https://t.me/+dbTXlac6wxFkYTQ9" target="_blank" rel="noopener noreferrer">Ads Managed By VINIT</a>
   </header>
   <main>
     <section class="hero">
-      <h1>𝗦𝗔𝗛𝗜𝗟 𝗩𝗜𝗣 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 🗿�</h1>
+      <h1>𝗦𝗔𝗛𝗜𝗟 𝗩𝗜𝗣 𝗖𝗛𝗔𝗡𝗡𝗘𝗟� 🗿�</h1>
       <div class="rule"></div>
       <p class="sub">Market insights, numbers &amp; trading-focused updates — all in one place.</p>
-      <a class="cta" href="https://https://t.me/+dbTXlac6wxFkYTQ9/+_hYqpJTtPD01NTY1" target="_blank" rel="noopener noreferrer">JOIN TELEGRAM</a>
+      <a class="cta" href="https://t.me/+dbTXlac6wxFkYTQ9" target="_blank" rel="noopener noreferrer">JOIN TELEGRAM</a>
     </section>
 
     <!-- REAL REVIEWS ONLY: paste genuine, permitted member feedback here, then remove this comment.
@@ -113,7 +113,7 @@ src="https://www.facebook.com/tr?id=1772028374027262&ev=PageView&noscript=1"
 
     <p class="note">Content is for information only and is not investment advice. Markets carry risk, and past performance does not guarantee future results.</p>
   </main>
-  <footer>© 2026 𝗦𝗔𝗛𝗜𝗟 𝗩𝗜𝗣 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 🗿� All rights reserved.</footer>
+  <footer>© 2026 𝗦𝗔𝗛𝗜𝗟 𝗩𝗜𝗣 𝗖𝗛𝗔𝗡𝗡𝗘𝗟� 🗿� All rights reserved.</footer>
 </div>
 </body>
 </html>
